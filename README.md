@@ -1,8 +1,44 @@
-# :wave: I'm Din
-> Student learning web-development and Luau. Open-source software developer.
+# 👋 I'm Din
+> Full-stack developer specializing in Luau and web development. Creating open-source tools for developers.
 
 ## About Me
-I use GitHub for my personal projects, usually private. For now, I'm developing on Roblox using Luau, however I'm planning to expand into more languages and platforms.  I'm currently experienced in Luau and full-stack web-development. I plan to learn C++ and Python.
+I'm a student developer passionate about creating efficient, user-friendly tools and utilities. While primarily focused on Roblox development with Luau, I'm expanding my expertise into full-stack web development, C++, and Python. I'm particularly fascinated by AI technology and its potential in development - from building AI-powered tools to enhancing coding workflows, while maintaining a balanced approach that combines AI assistance with solid programming fundamentals.
+
+## Featured Projects
+
+### 🌐 [public-ip-tracker](https://github.com/DindinYT37/public-ip-tracker)
+A lightweight Windows system tray utility that monitors and logs public IP address changes.
+- Runs silently in system tray
+- Automatic IP monitoring and CSV logging
+- Multiple IP checking services for reliability
+- Zero configuration required
+
+### 🎮 [roblox-utils](https://github.com/DindinYT37/roblox-utils)
+A comprehensive collection of high-performance Roblox utility functions.
+- Number formatting and manipulation
+- Color and interpolation utilities
+- Cryptographic functions
+- String operations
+- Production-ready and thoroughly tested
+
+### 📊 [roblox-stats-tracker](https://github.com/DindinYT37/roblox-stats-tracker)
+Automated statistics tracker for Roblox games and groups.
+- Tracks visits, favorites, player counts
+- Configurable collection intervals
+- CSV output with detailed logging
+- Built-in rate limiting and error handling
+
+### 🤖 AI Development
+I enjoy exploring AI technologies and their practical applications:
+- Built a custom browser extension using the Gemini API
+- Experimenting with AI-assisted development workflows
+- Focused on maintaining a balance between AI tools and fundamental programming skills
+
+## Skills
+- **Languages:** Luau, JavaScript, PHP, HTML/CSS
+- **Frameworks:** Node.js
+- **Tools:** Git, VS Code, Roblox Studio, AI Development Tools
+- **Learning:** C++, Python
 
 ## Contact
 
@@ -11,7 +47,7 @@ I use GitHub for my personal projects, usually private. For now, I'm developing 
 [![YouTube](https://img.shields.io/badge/youtube-ff0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@byzantinethrive)
 [![DevForum](https://img.shields.io/badge/DevForum-00a0ff?logo=robloxstudio&logoColor=white&style=for-the-badge)](https://devforum.roblox.com/u/dindinyt37)
 
-You can contact me by clicking any of the above badges and contacting me from there. Twitter is the fastest response times.
+Feel free to reach out through any of the platforms above! I'm most responsive on Discord (@dindinyt).
 
 ---
 
@@ -19,11 +55,11 @@ You can contact me by clicking any of the above badges and contacting me from th
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=DindinYT37&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true&theme=github_dark_dimmed"
-   media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=DindinYT37&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true&theme=default"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DindinYT37&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true" />
 </picture>
